@@ -82,3 +82,4 @@ web
 windows
 .metadata
 pubspec.*
+analysis_options.yaml
